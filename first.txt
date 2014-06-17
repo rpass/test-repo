@@ -1,0 +1,2 @@
+This is my first textfile to share on github.
+Long live git
